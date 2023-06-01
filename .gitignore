@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules
+
+# Build output
+dist
+build
+
+# Environment variables and sensitive information
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
