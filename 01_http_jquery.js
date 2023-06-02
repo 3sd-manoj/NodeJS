@@ -22,3 +22,4 @@ let server = http.createServer((req, res) => {
 });
  server.listen(8081);
 console.log("listening port: 8081");
+//http://localhost:8081/?uname=manoj&password=kumar
