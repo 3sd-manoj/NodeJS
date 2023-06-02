@@ -1,7 +1,5 @@
 //import http module
 let http = require("http");
-//import url module
-let url = require("url");
 //create http server
 let server = http.createServer((req, res) => {
     res.write("welcome to node MJ");

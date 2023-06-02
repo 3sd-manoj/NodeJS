@@ -23,6 +23,6 @@ res.status(200).json({"message":"data from cassandra db sonn"})
 app.listen(8081, () => { 
     console.log("Server started");
 });
-
+//yarn add express --save
 //http://localhost:8081
 //http:localhost:8081/demo
